@@ -1,4 +1,5 @@
-### HHi 👋, I'm @AyaAlharbi
+### Hi 👋, I'm @AyaAlharbi
+### I'm interested in Web Engineering
 
 <!--
 **AyaAlharbi/AyaAlharbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
